@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638327659325294591
+      ticks: 638327731215393143
     m_Hash: 2362511596
   m_LockFileStatus:
     m_FilePath: C:/Users/shunp/Documents/GitHub/yurei/hand/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638327659966455738
+      ticks: 638327731824188610
     m_Hash: 1613653515
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
